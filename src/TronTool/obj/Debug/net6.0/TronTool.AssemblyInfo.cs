@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tron")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ea63a4e832954642b9ff8d19c177ba586f575bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("tron")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tron")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
