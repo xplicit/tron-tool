@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BAG/cJhUEu0AE2Qm+rBZNaJMixjAkSI7By//VWDJvtvy2EtKN+sCDVydR1AibVRq/DaE90JIqkODI3LYxOh8ww==",
+  "success": true,
+  "projectFilePath": "/home/alexeyshevin/tron-tool/src/TronTool/TronTool.csproj",
+  "expectedPackageFiles": [
+    "/home/alexeyshevin/.nuget/packages/nunit/4.1.0/nunit.4.1.0.nupkg.sha512",
+    "/home/alexeyshevin/.nuget/packages/system.commandline/2.0.0-beta4.22272.1/system.commandline.2.0.0-beta4.22272.1.nupkg.sha512"
+  ],
+  "logs": []
+}

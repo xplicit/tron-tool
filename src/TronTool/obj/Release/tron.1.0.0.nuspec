@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>tron</id>
+    <version>1.0.0</version>
+    <authors>tron</authors>
+    <readme>./README.md</readme>
+    <description>Package Description</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+    <repository type="git" />
+    <contentFiles>
+      <files include="any/net6.0/../TronTool/templates/basic/$appname/$appname.csproj.tmpl" buildAction="Content" />
+      <files include="any/net6.0/../TronTool/templates/basic/$appname/$appname.sln.tmpl" buildAction="Content" />
+      <files include="any/net6.0/../TronTool/templates/basic/$appname/index.css" buildAction="Content" />
+      <files include="any/net6.0/../TronTool/templates/basic/$appname/index.html" buildAction="Content" />
+      <files include="any/net6.0/../TronTool/templates/basic/$appname/index.js" buildAction="Content" />
+      <files include="any/net6.0/../TronTool/templates/basic/$appname/Program.cs" buildAction="Content" />
+      <files include="any/net6.0/../TronTool/templates/react-app/$appname/$appname.csproj.tmpl" buildAction="Content" />
+      <files include="any/net6.0/../TronTool/templates/react-app/$appname/$appname.sln.tmpl" buildAction="Content" />
+      <files include="any/net6.0/../TronTool/templates/react-app/$appname/.gitignore" buildAction="Content" />
+      <files include="any/net6.0/../TronTool/templates/react-app/$appname/package-lock.json" buildAction="Content" />
+      <files include="any/net6.0/../TronTool/templates/react-app/$appname/package.json" buildAction="Content" />
+      <files include="any/net6.0/../TronTool/templates/react-app/$appname/Program.cs" buildAction="Content" />
+      <files include="any/net6.0/../TronTool/templates/react-app/$appname/public/favicon.ico" buildAction="Content" />
+      <files include="any/net6.0/../TronTool/templates/react-app/$appname/public/index.html" buildAction="Content" />
+      <files include="any/net6.0/../TronTool/templates/react-app/$appname/public/logo192.png" buildAction="Content" />
+      <files include="any/net6.0/../TronTool/templates/react-app/$appname/public/logo512.png" buildAction="Content" />
+      <files include="any/net6.0/../TronTool/templates/react-app/$appname/public/manifest.json" buildAction="Content" />
+      <files include="any/net6.0/../TronTool/templates/react-app/$appname/public/robots.txt" buildAction="Content" />
+      <files include="any/net6.0/../TronTool/templates/react-app/$appname/README.md" buildAction="Content" />
+      <files include="any/net6.0/../TronTool/templates/react-app/$appname/src/App.css" buildAction="Content" />
+      <files include="any/net6.0/../TronTool/templates/react-app/$appname/src/App.js" buildAction="Content" />
+      <files include="any/net6.0/../TronTool/templates/react-app/$appname/src/App.test.js" buildAction="Content" />
+      <files include="any/net6.0/../TronTool/templates/react-app/$appname/src/index.css" buildAction="Content" />
+      <files include="any/net6.0/../TronTool/templates/react-app/$appname/src/index.js" buildAction="Content" />
+      <files include="any/net6.0/../TronTool/templates/react-app/$appname/src/logo.svg" buildAction="Content" />
+      <files include="any/net6.0/../TronTool/templates/react-app/$appname/src/reportWebVitals.js" buildAction="Content" />
+      <files include="any/net6.0/../TronTool/templates/react-app/$appname/src/setupTests.js" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\obj\DotnetToolSettings.xml" target="tools\net6.0\any\DotnetToolSettings.xml" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\bin\Release\net6.0\publish\templates\basic\$appname\$appname.csproj.tmpl" target="tools\net6.0\any\templates\basic\$appname\$appname.csproj.tmpl" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\bin\Release\net6.0\publish\templates\basic\$appname\$appname.sln.tmpl" target="tools\net6.0\any\templates\basic\$appname\$appname.sln.tmpl" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\bin\Release\net6.0\publish\templates\basic\$appname\index.css" target="tools\net6.0\any\templates\basic\$appname\index.css" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\bin\Release\net6.0\publish\templates\basic\$appname\index.html" target="tools\net6.0\any\templates\basic\$appname\index.html" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\bin\Release\net6.0\publish\templates\basic\$appname\index.js" target="tools\net6.0\any\templates\basic\$appname\index.js" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\bin\Release\net6.0\publish\templates\basic\$appname\Program.cs" target="tools\net6.0\any\templates\basic\$appname\Program.cs" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\bin\Release\net6.0\publish\templates\react-app\$appname\$appname.csproj.tmpl" target="tools\net6.0\any\templates\react-app\$appname\$appname.csproj.tmpl" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\bin\Release\net6.0\publish\templates\react-app\$appname\$appname.sln.tmpl" target="tools\net6.0\any\templates\react-app\$appname\$appname.sln.tmpl" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\bin\Release\net6.0\publish\templates\react-app\$appname\.gitignore" target="tools\net6.0\any\templates\react-app\$appname\.gitignore" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\bin\Release\net6.0\publish\templates\react-app\$appname\package-lock.json" target="tools\net6.0\any\templates\react-app\$appname\package-lock.json" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\bin\Release\net6.0\publish\templates\react-app\$appname\package.json" target="tools\net6.0\any\templates\react-app\$appname\package.json" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\bin\Release\net6.0\publish\templates\react-app\$appname\Program.cs" target="tools\net6.0\any\templates\react-app\$appname\Program.cs" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\bin\Release\net6.0\publish\templates\react-app\$appname\README.md" target="tools\net6.0\any\templates\react-app\$appname\README.md" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\bin\Release\net6.0\publish\templates\react-app\$appname\public\favicon.ico" target="tools\net6.0\any\templates\react-app\$appname\public\favicon.ico" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\bin\Release\net6.0\publish\templates\react-app\$appname\public\index.html" target="tools\net6.0\any\templates\react-app\$appname\public\index.html" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\bin\Release\net6.0\publish\templates\react-app\$appname\public\logo192.png" target="tools\net6.0\any\templates\react-app\$appname\public\logo192.png" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\bin\Release\net6.0\publish\templates\react-app\$appname\public\logo512.png" target="tools\net6.0\any\templates\react-app\$appname\public\logo512.png" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\bin\Release\net6.0\publish\templates\react-app\$appname\public\manifest.json" target="tools\net6.0\any\templates\react-app\$appname\public\manifest.json" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\bin\Release\net6.0\publish\templates\react-app\$appname\public\robots.txt" target="tools\net6.0\any\templates\react-app\$appname\public\robots.txt" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\bin\Release\net6.0\publish\templates\react-app\$appname\src\App.css" target="tools\net6.0\any\templates\react-app\$appname\src\App.css" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\bin\Release\net6.0\publish\templates\react-app\$appname\src\App.js" target="tools\net6.0\any\templates\react-app\$appname\src\App.js" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\bin\Release\net6.0\publish\templates\react-app\$appname\src\App.test.js" target="tools\net6.0\any\templates\react-app\$appname\src\App.test.js" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\bin\Release\net6.0\publish\templates\react-app\$appname\src\index.css" target="tools\net6.0\any\templates\react-app\$appname\src\index.css" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\bin\Release\net6.0\publish\templates\react-app\$appname\src\index.js" target="tools\net6.0\any\templates\react-app\$appname\src\index.js" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\bin\Release\net6.0\publish\templates\react-app\$appname\src\logo.svg" target="tools\net6.0\any\templates\react-app\$appname\src\logo.svg" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\bin\Release\net6.0\publish\templates\react-app\$appname\src\reportWebVitals.js" target="tools\net6.0\any\templates\react-app\$appname\src\reportWebVitals.js" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\bin\Release\net6.0\publish\templates\react-app\$appname\src\setupTests.js" target="tools\net6.0\any\templates\react-app\$appname\src\setupTests.js" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\bin\Release\net6.0\publish\tron.dll" target="tools\net6.0\any\tron.dll" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\bin\Release\net6.0\publish\tron.deps.json" target="tools\net6.0\any\tron.deps.json" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\bin\Release\net6.0\publish\tron.runtimeconfig.json" target="tools\net6.0\any\tron.runtimeconfig.json" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\bin\Release\net6.0\publish\tron.pdb" target="tools\net6.0\any\tron.pdb" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\bin\Release\net6.0\publish\nunit.framework.dll" target="tools\net6.0\any\nunit.framework.dll" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\bin\Release\net6.0\publish\nunit.framework.legacy.dll" target="tools\net6.0\any\nunit.framework.legacy.dll" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\bin\Release\net6.0\publish\System.CommandLine.dll" target="tools\net6.0\any\System.CommandLine.dll" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\bin\Release\net6.0\publish\cs\System.CommandLine.resources.dll" target="tools\net6.0\any\cs\System.CommandLine.resources.dll" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\bin\Release\net6.0\publish\de\System.CommandLine.resources.dll" target="tools\net6.0\any\de\System.CommandLine.resources.dll" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\bin\Release\net6.0\publish\es\System.CommandLine.resources.dll" target="tools\net6.0\any\es\System.CommandLine.resources.dll" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\bin\Release\net6.0\publish\fr\System.CommandLine.resources.dll" target="tools\net6.0\any\fr\System.CommandLine.resources.dll" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\bin\Release\net6.0\publish\it\System.CommandLine.resources.dll" target="tools\net6.0\any\it\System.CommandLine.resources.dll" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\bin\Release\net6.0\publish\ja\System.CommandLine.resources.dll" target="tools\net6.0\any\ja\System.CommandLine.resources.dll" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\bin\Release\net6.0\publish\ko\System.CommandLine.resources.dll" target="tools\net6.0\any\ko\System.CommandLine.resources.dll" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\bin\Release\net6.0\publish\pl\System.CommandLine.resources.dll" target="tools\net6.0\any\pl\System.CommandLine.resources.dll" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\bin\Release\net6.0\publish\pt-BR\System.CommandLine.resources.dll" target="tools\net6.0\any\pt-BR\System.CommandLine.resources.dll" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\bin\Release\net6.0\publish\ru\System.CommandLine.resources.dll" target="tools\net6.0\any\ru\System.CommandLine.resources.dll" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\bin\Release\net6.0\publish\tr\System.CommandLine.resources.dll" target="tools\net6.0\any\tr\System.CommandLine.resources.dll" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\bin\Release\net6.0\publish\zh-Hans\System.CommandLine.resources.dll" target="tools\net6.0\any\zh-Hans\System.CommandLine.resources.dll" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\bin\Release\net6.0\publish\zh-Hant\System.CommandLine.resources.dll" target="tools\net6.0\any\zh-Hant\System.CommandLine.resources.dll" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\templates\basic\$appname\$appname.csproj.tmpl" target="content\..\TronTool\templates\basic\$appname\$appname.csproj.tmpl" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\templates\basic\$appname\$appname.csproj.tmpl" target="contentFiles\any\net6.0\..\TronTool\templates\basic\$appname\$appname.csproj.tmpl" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\templates\basic\$appname\$appname.sln.tmpl" target="content\..\TronTool\templates\basic\$appname\$appname.sln.tmpl" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\templates\basic\$appname\$appname.sln.tmpl" target="contentFiles\any\net6.0\..\TronTool\templates\basic\$appname\$appname.sln.tmpl" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\templates\basic\$appname\index.css" target="content\..\TronTool\templates\basic\$appname\index.css" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\templates\basic\$appname\index.css" target="contentFiles\any\net6.0\..\TronTool\templates\basic\$appname\index.css" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\templates\basic\$appname\index.html" target="content\..\TronTool\templates\basic\$appname\index.html" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\templates\basic\$appname\index.html" target="contentFiles\any\net6.0\..\TronTool\templates\basic\$appname\index.html" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\templates\basic\$appname\index.js" target="content\..\TronTool\templates\basic\$appname\index.js" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\templates\basic\$appname\index.js" target="contentFiles\any\net6.0\..\TronTool\templates\basic\$appname\index.js" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\templates\basic\$appname\Program.cs" target="content\..\TronTool\templates\basic\$appname\Program.cs" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\templates\basic\$appname\Program.cs" target="contentFiles\any\net6.0\..\TronTool\templates\basic\$appname\Program.cs" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\templates\react-app\$appname\$appname.csproj.tmpl" target="content\..\TronTool\templates\react-app\$appname\$appname.csproj.tmpl" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\templates\react-app\$appname\$appname.csproj.tmpl" target="contentFiles\any\net6.0\..\TronTool\templates\react-app\$appname\$appname.csproj.tmpl" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\templates\react-app\$appname\$appname.sln.tmpl" target="content\..\TronTool\templates\react-app\$appname\$appname.sln.tmpl" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\templates\react-app\$appname\$appname.sln.tmpl" target="contentFiles\any\net6.0\..\TronTool\templates\react-app\$appname\$appname.sln.tmpl" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\templates\react-app\$appname\.gitignore" target="content\..\TronTool\templates\react-app\$appname\.gitignore" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\templates\react-app\$appname\.gitignore" target="contentFiles\any\net6.0\..\TronTool\templates\react-app\$appname\.gitignore" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\templates\react-app\$appname\package-lock.json" target="content\..\TronTool\templates\react-app\$appname\package-lock.json" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\templates\react-app\$appname\package-lock.json" target="contentFiles\any\net6.0\..\TronTool\templates\react-app\$appname\package-lock.json" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\templates\react-app\$appname\package.json" target="content\..\TronTool\templates\react-app\$appname\package.json" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\templates\react-app\$appname\package.json" target="contentFiles\any\net6.0\..\TronTool\templates\react-app\$appname\package.json" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\templates\react-app\$appname\Program.cs" target="content\..\TronTool\templates\react-app\$appname\Program.cs" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\templates\react-app\$appname\Program.cs" target="contentFiles\any\net6.0\..\TronTool\templates\react-app\$appname\Program.cs" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\templates\react-app\$appname\public\favicon.ico" target="content\..\TronTool\templates\react-app\$appname\public\favicon.ico" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\templates\react-app\$appname\public\favicon.ico" target="contentFiles\any\net6.0\..\TronTool\templates\react-app\$appname\public\favicon.ico" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\templates\react-app\$appname\public\index.html" target="content\..\TronTool\templates\react-app\$appname\public\index.html" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\templates\react-app\$appname\public\index.html" target="contentFiles\any\net6.0\..\TronTool\templates\react-app\$appname\public\index.html" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\templates\react-app\$appname\public\logo192.png" target="content\..\TronTool\templates\react-app\$appname\public\logo192.png" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\templates\react-app\$appname\public\logo192.png" target="contentFiles\any\net6.0\..\TronTool\templates\react-app\$appname\public\logo192.png" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\templates\react-app\$appname\public\logo512.png" target="content\..\TronTool\templates\react-app\$appname\public\logo512.png" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\templates\react-app\$appname\public\logo512.png" target="contentFiles\any\net6.0\..\TronTool\templates\react-app\$appname\public\logo512.png" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\templates\react-app\$appname\public\manifest.json" target="content\..\TronTool\templates\react-app\$appname\public\manifest.json" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\templates\react-app\$appname\public\manifest.json" target="contentFiles\any\net6.0\..\TronTool\templates\react-app\$appname\public\manifest.json" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\templates\react-app\$appname\public\robots.txt" target="content\..\TronTool\templates\react-app\$appname\public\robots.txt" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\templates\react-app\$appname\public\robots.txt" target="contentFiles\any\net6.0\..\TronTool\templates\react-app\$appname\public\robots.txt" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\templates\react-app\$appname\README.md" target="content\..\TronTool\templates\react-app\$appname\README.md" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\templates\react-app\$appname\README.md" target="contentFiles\any\net6.0\..\TronTool\templates\react-app\$appname\README.md" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\templates\react-app\$appname\src\App.css" target="content\..\TronTool\templates\react-app\$appname\src\App.css" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\templates\react-app\$appname\src\App.css" target="contentFiles\any\net6.0\..\TronTool\templates\react-app\$appname\src\App.css" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\templates\react-app\$appname\src\App.js" target="content\..\TronTool\templates\react-app\$appname\src\App.js" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\templates\react-app\$appname\src\App.js" target="contentFiles\any\net6.0\..\TronTool\templates\react-app\$appname\src\App.js" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\templates\react-app\$appname\src\App.test.js" target="content\..\TronTool\templates\react-app\$appname\src\App.test.js" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\templates\react-app\$appname\src\App.test.js" target="contentFiles\any\net6.0\..\TronTool\templates\react-app\$appname\src\App.test.js" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\templates\react-app\$appname\src\index.css" target="content\..\TronTool\templates\react-app\$appname\src\index.css" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\templates\react-app\$appname\src\index.css" target="contentFiles\any\net6.0\..\TronTool\templates\react-app\$appname\src\index.css" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\templates\react-app\$appname\src\index.js" target="content\..\TronTool\templates\react-app\$appname\src\index.js" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\templates\react-app\$appname\src\index.js" target="contentFiles\any\net6.0\..\TronTool\templates\react-app\$appname\src\index.js" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\templates\react-app\$appname\src\logo.svg" target="content\..\TronTool\templates\react-app\$appname\src\logo.svg" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\templates\react-app\$appname\src\logo.svg" target="contentFiles\any\net6.0\..\TronTool\templates\react-app\$appname\src\logo.svg" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\templates\react-app\$appname\src\reportWebVitals.js" target="content\..\TronTool\templates\react-app\$appname\src\reportWebVitals.js" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\templates\react-app\$appname\src\reportWebVitals.js" target="contentFiles\any\net6.0\..\TronTool\templates\react-app\$appname\src\reportWebVitals.js" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\templates\react-app\$appname\src\setupTests.js" target="content\..\TronTool\templates\react-app\$appname\src\setupTests.js" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\templates\react-app\$appname\src\setupTests.js" target="contentFiles\any\net6.0\..\TronTool\templates\react-app\$appname\src\setupTests.js" />
+    <file src="C:\Users\Alexey Shevin\TronTool\src\TronTool\README.md" target="\README.md" />
+  </files>
+</package>

@@ -1,0 +1,11 @@
+# Visual Studio Code
+.vscode
+
+# Build results
+bin/
+obj/
+
+# Visual Studio 2015
+.vs/
+
+!lib/**
